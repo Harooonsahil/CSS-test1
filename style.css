@@ -1,0 +1,52 @@
+#div1{
+    border: solid rgb(44, 37, 37);
+    width: 300px;
+    height: 430px;
+    border-radius: 20px;
+    background-color:rgb(36, 33, 33);
+    position: relative;
+    left:300px;
+    box-shadow: 10px 10px 15px black;
+}
+#div2{
+    border: solid;
+    width: 280px;
+    height: 75px;
+    position: relative;
+    top: 15px;
+    left: 9px;
+    border-radius: 12px;
+    background-color: rgb(142, 142, 86);
+     box-shadow: 3px 3px 3px rgb(95, 95, 31);   
+}
+#digits{
+    color: azure;
+    display: inline;
+    position: relative;
+    left: 225px;
+    top: 20px;
+}
+table{
+    width:280px;
+    height: 300px;
+    position: relative;
+    left: 10px;
+    top: 7px;
+    border-radius: 5px;
+}
+
+td{
+    border: solid;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgb(37, 32, 32);
+    box-shadow: 1px 1px 1px rgb(7, 7, 7);
+    color: rgb(241, 237, 237);
+    border-color: black;
+}
+#C{
+    background-color: rgb(183, 32, 62);
+}
+#equal{
+    background-color: rgb(60, 60, 159);
+}
